@@ -4,132 +4,90 @@
     "href": "index.html",
     "title": "Hoeller Lab",
     "section": "",
-    "text": "Welcome to the Hoeller Lab. We study [your topic here] — replace this paragraph with two or three sentences that tell a visitor what questions the lab works on and why they matter.\nOur research Join the lab"
+    "text": "How does the brain turn the flat, ever-shifting images on the retina into a stable sense of depth and 3D structure—above all as we move through the world? We combine mathematical theory, computational modeling, and close collaboration with experimentalists to find out, linking large-scale neural datasets with artificial neural networks. Our goal is twofold: to uncover the computational principles unique to biological vision, and to build artificial architectures that capture them.\nOur research Join the lab"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Hoeller Lab",
     "section": "News",
-    "text": "News\n\nJuly 2026 — Lab website launched. (Replace these bullets with real news, or ask for a proper dated news/blog section later.)"
+    "text": "News\n\nJanuary 2027 — Lab starts at the University of Notre Dame!"
   },
   {
-    "objectID": "people/jane-doe.html",
-    "href": "people/jane-doe.html",
-    "title": "Jane Doe",
+    "objectID": "people/judith-hoeller.html",
+    "href": "people/judith-hoeller.html",
+    "title": "Judith Hoeller",
     "section": "",
-    "text": "(Placeholder — copy this file for each lab member. sortorder controls the position in the grid; the photo goes in assets/ and is referenced via image: above.)\nShort bio: background, what they work on in the lab, one personal touch.\nEmail · Google Scholar · ORCID"
-  },
-  {
-    "objectID": "people/john-roe.html",
-    "href": "people/john-roe.html",
-    "title": "John Roe",
-    "section": "",
-    "text": "Short bio for a placeholder PhD student.\nEmail"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "A short overview paragraph: what unifies the lab’s work, in plain language."
-  },
-  {
-    "objectID": "research.html#research-area-one",
-    "href": "research.html#research-area-one",
-    "title": "Research",
-    "section": "Research area one",
-    "text": "Research area one\nTwo to four sentences on this line of work: the question, the approach, and a representative result or ongoing project. Add a figure with ![caption](assets/figure.png) if you have one."
-  },
-  {
-    "objectID": "research.html#research-area-two",
-    "href": "research.html#research-area-two",
-    "title": "Research",
-    "section": "Research area two",
-    "text": "Research area two\nSame structure as above."
-  },
-  {
-    "objectID": "research.html#research-area-three",
-    "href": "research.html#research-area-three",
-    "title": "Research",
-    "section": "Research area three",
-    "text": "Research area three\nSame structure as above. Delete or add sections as needed — each ## heading becomes an entry in this page’s structure."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Hoeller Lab Department of … University of … Street 1, 12345 City, Country\nEmail: lab@example.edu\nVisiting: Building X, Floor Y, Room Z — directions or a link to a campus map go here."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "All lab publications, newest first. Add a paper by appending a BibTeX entry to papers.bib — this page regenerates automatically. Also see the lab on Google Scholar.\n\n\nDoe, J., & Roe, J. (2025). An example article title: Replace me with a real publication. Journal of Placeholder Studies, 12, 345–360. https://doi.org/10.0000/example.2025\n\n\nRoe, J., & Doe, J. (2024). A placeholder conference paper. Proceedings of the 1st Example Conference (EXAMPLE), 1–10. https://doi.org/10.0000/example.2024\n\n\nDoe, J. (2023). An older placeholder paper to demonstrate date sorting. Annals of Sample Data, 3, 1–15. https://doi.org/10.0000/example.2023"
+    "text": "Judith is a theoretical and computational scientist who leverages her foundational training in mathematics and physics to understand how the brain processes complex visual information. After earning degrees at ETH Zurich and completing a PhD in theoretical condensed matter physics at Yale University, she shifted her focus to systems neuroscience as a postdoctoral associate at HHMI’s Janelia Research Campus. Outside the lab, Judith enjoys spending time outdoors, whether hiking in parks, exploring new places, or swimming in fresh lakes.\nEmail · Google Scholar · ORCID"
   },
   {
     "objectID": "join.html",
     "href": "join.html",
     "title": "Join us",
     "section": "",
-    "text": "We are always interested in hearing from motivated people. Replace this intro with a sentence about the lab’s mentoring style and environment."
+    "text": "New tools are producing brain data at a scale and quality we have never had before, and with it the chance to answer long-standing questions about how the brain computes. It is a good time for quantitative scientists to move into biology. We welcome people from physics, mathematics, computer science, and neuroscience who want to bring quantitative rigor to these questions.\nWe are recruiting at every level and offer a collaborative, supportive environment:\n\nPostdocs building mechanistic models from whole-brain connectomes\nPhD students who want to rotate and learn to analyze state-of-the-art datasets\nUndergraduates seeking hands-on experience in programming and data analysis; we ask for a six-month minimum so there is time to train properly\n\nTo apply, email me with your CV and a short description of your research interests and background—quantitative coursework, coding experience, or previous research. Postdoctoral candidates should also include contact details for two or three references. Prospective graduate students must apply through the university’s graduate program, but are encouraged to reach out first to discuss projects."
   },
   {
-    "objectID": "join.html#open-positions",
-    "href": "join.html#open-positions",
-    "title": "Join us",
-    "section": "Open positions",
-    "text": "Open positions\nNo funded openings at the moment. When there are, list them here with a link to the official posting."
-  },
-  {
-    "objectID": "join.html#phd-students",
-    "href": "join.html#phd-students",
-    "title": "Join us",
-    "section": "PhD students",
-    "text": "PhD students\nWhat you look for in applicants, funding routes, and how to get in touch (e.g. email with CV, transcripts, and a short statement of interest)."
-  },
-  {
-    "objectID": "join.html#postdocs",
-    "href": "join.html#postdocs",
-    "title": "Join us",
-    "section": "Postdocs",
-    "text": "Postdocs\nNote relevant fellowship programs (e.g. Marie Skłodowska-Curie, national fellowships) and invite informal inquiries."
-  },
-  {
-    "objectID": "join.html#bscmsc-theses-internships",
-    "href": "join.html#bscmsc-theses-internships",
-    "title": "Join us",
-    "section": "BSc/MSc theses & internships",
-    "text": "BSc/MSc theses & internships\nWhich topics are available, prerequisites, and who to contact."
-  },
-  {
-    "objectID": "people/alumni/alex-past.html",
-    "href": "people/alumni/alex-past.html",
-    "title": "Alex Past",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Placeholder alumni entry — thesis title and where they went next."
+    "text": "All publications on Google Scholar.\n\n\nBerg, S., Beckett, I. R., Costa, M., Schlegel, P., Januszewski, M., Marin, E. C., Nern, A., Preibisch, S., Qiu, W., Takemura, S., et al. (2025). Sexual dimorphism in the complete connectome of the drosophila male central nervous system. bioRxiv. https://doi.org/10.1101/2025.10.09.680999\n\n\nHoeller, J., Zhao, A., Nern, A., Rogers, E. M., Romani, S., & Reiser, M. B. (2025). The organization of visual pathways in the drosophila brain. bioRxiv, 2025.12.22.696097v2.\n\n\nLane, J. R., Guria, C., Höller, J., Montalvo, T. D., Patil, Y. S. S., & Harris, J. G. E. (2025). Geometric amplification via non-hermitian berry phase. arXiv Preprint arXiv:2503.23197. https://doi.org/10.48550/arXiv.2503.23197\n\n\nYin, Y., Hoeller, J., Mathiasen, A., Tsang, J., Charrier, M. E., & Cardona, A. (2025). The connectome interpreter toolkit. bioRxiv. https://doi.org/10.1101/2025.09.29.679410\n\n\nHoeller, J., Zhong, L., Heinrich, L., Saalfeld, S., Pachitariu, M., & Romani, S. (2024). Equivariant neuronal populations enable simultaneous tuning and invariance. bioRxiv, 2024.08.02.606398v2.\n\n\nNern, A., Hoeller, J., et al. (2024). Connectome-driven neural inventory of a complete visual system. bioRxiv, 2024.04.16.589741.\n\n\nZhao, A., Nern, A., Koskela, S., Dreher, M., Erginkaya, M., Laughland, C. W., Ludwigh, H., Thomson, A., Hoeller, J., Parekh, R., Romani, S., Bock, D. D., Chiappe, E., & Reiser, M. B. (2023). A comprehensive neuroanatomical survey of the drosophila lobula plate tangential neurons with predictions for their optic flow sensitivity. eLife, 13, RP93659.\n\n\nPatil, Y. S. S., Hoeller, J., Henry, P. A., Guria, C., Zhang, Y., Jiang, L., Kralj, N., Read, N., & Harris, J. G. E. (2022). Measuring the knot of non-hermitian degeneracies and non-commuting braids. Nature, 607(7918), 271–275.\n\n\nHoeller, J., & Read, N. (2020). One-step replica-symmetry-breaking phase below the de almeida-thouless line in low-dimensional spin glasses. Phys. Rev. E, 101(4), 042114.\n\n\nHoeller, J., & Alexandradinata, A. (2018). Topological bloch oscillations. Phys. Rev. B, 98(2), 024310."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Hoeller Lab Judith Hoeller Department of Physics University of Notre Dame\nEmail: jhoeller@nd.edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Our projects span the theory of neural population codes, geometry-constrained deep learning, and connectome-based models of real circuits."
+  },
+  {
+    "objectID": "research.html#the-neural-geometry-of-3d-vision-and-depth-cues",
+    "href": "research.html#the-neural-geometry-of-3d-vision-and-depth-cues",
+    "title": "Research",
+    "section": "The Neural Geometry of 3D Vision and Depth Cues",
+    "text": "The Neural Geometry of 3D Vision and Depth Cues\nPerceiving depth feels effortless, yet the brain must compute distance and 3D structure from the 2D light entering a single eye. Movement makes this harder: as an animal travels through the world, its visual input undergoes continuous geometric transformations. We study how neuronal populations process these transformations to support both stable object recognition and accurate depth perception."
+  },
+  {
+    "objectID": "research.html#geometric-deep-learning-for-biological-and-artificial-vision",
+    "href": "research.html#geometric-deep-learning-for-biological-and-artificial-vision",
+    "title": "Research",
+    "section": "Geometric Deep Learning for Biological and Artificial Vision",
+    "text": "Geometric Deep Learning for Biological and Artificial Vision\nConvolutional networks achieve remarkable performance on visual tasks, yet they process images unlike any biological brain and often remain “black boxes.” We push artificial networks closer to biological reality by building in mathematical and biological constraints. Using geometric deep learning, our networks share weights across channels to mimic the equivariant population codes found in real brains."
+  },
+  {
+    "objectID": "research.html#mechanistic-models-of-motion-processing-and-navigation",
+    "href": "research.html#mechanistic-models-of-motion-processing-and-navigation",
+    "title": "Research",
+    "section": "Mechanistic Models of Motion Processing and Navigation",
+    "text": "Mechanistic Models of Motion Processing and Navigation\nMechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes—such as the full wiring diagram of the fruit fly brain—now let us trace how sensory input becomes a navigational command. We investigate how the visual system computes relative depth from motion parallax, testing the hypothesis that distinct, specialized neurons compare foreground and background motion to do so."
   },
   {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
+    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/index.html#current-members",
     "href": "people/index.html#current-members",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
+    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/index.html#alumni",
     "href": "people/index.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n\n\n\n\n\n\n\n\nAlex Past\n\n\nMSc Student (2024–2026), now at Example Corp\n\n\n\n\n\nNo matching items"
+    "text": "Alumni\n\n\n\n\n\n\n\n\n\n\nNone\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
