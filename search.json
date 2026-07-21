@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hoeller Lab",
+    "section": "",
+    "text": "Welcome to the Hoeller Lab. We study [your topic here] — replace this paragraph with two or three sentences that tell a visitor what questions the lab works on and why they matter.\nOur research Join the lab"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Hoeller Lab",
+    "section": "News",
+    "text": "News\n\nJuly 2026 — Lab website launched. (Replace these bullets with real news, or ask for a proper dated news/blog section later.)"
+  },
+  {
+    "objectID": "people/jane-doe.html",
+    "href": "people/jane-doe.html",
+    "title": "Jane Doe",
+    "section": "",
+    "text": "(Placeholder — copy this file for each lab member. sortorder controls the position in the grid; the photo goes in assets/ and is referenced via image: above.)\nShort bio: background, what they work on in the lab, one personal touch.\nEmail · Google Scholar · ORCID"
+  },
+  {
+    "objectID": "people/john-roe.html",
+    "href": "people/john-roe.html",
+    "title": "John Roe",
+    "section": "",
+    "text": "Short bio for a placeholder PhD student.\nEmail"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A short overview paragraph: what unifies the lab’s work, in plain language."
+  },
+  {
+    "objectID": "research.html#research-area-one",
+    "href": "research.html#research-area-one",
+    "title": "Research",
+    "section": "Research area one",
+    "text": "Research area one\nTwo to four sentences on this line of work: the question, the approach, and a representative result or ongoing project. Add a figure with ![caption](assets/figure.png) if you have one."
+  },
+  {
+    "objectID": "research.html#research-area-two",
+    "href": "research.html#research-area-two",
+    "title": "Research",
+    "section": "Research area two",
+    "text": "Research area two\nSame structure as above."
+  },
+  {
+    "objectID": "research.html#research-area-three",
+    "href": "research.html#research-area-three",
+    "title": "Research",
+    "section": "Research area three",
+    "text": "Research area three\nSame structure as above. Delete or add sections as needed — each ## heading becomes an entry in this page’s structure."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Hoeller Lab Department of … University of … Street 1, 12345 City, Country\nEmail: lab@example.edu\nVisiting: Building X, Floor Y, Room Z — directions or a link to a campus map go here."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "All lab publications, newest first. Add a paper by appending a BibTeX entry to papers.bib — this page regenerates automatically. Also see the lab on Google Scholar.\n\n\nDoe, J., & Roe, J. (2025). An example article title: Replace me with a real publication. Journal of Placeholder Studies, 12, 345–360. https://doi.org/10.0000/example.2025\n\n\nRoe, J., & Doe, J. (2024). A placeholder conference paper. Proceedings of the 1st Example Conference (EXAMPLE), 1–10. https://doi.org/10.0000/example.2024\n\n\nDoe, J. (2023). An older placeholder paper to demonstrate date sorting. Annals of Sample Data, 3, 1–15. https://doi.org/10.0000/example.2023"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join us",
+    "section": "",
+    "text": "We are always interested in hearing from motivated people. Replace this intro with a sentence about the lab’s mentoring style and environment."
+  },
+  {
+    "objectID": "join.html#open-positions",
+    "href": "join.html#open-positions",
+    "title": "Join us",
+    "section": "Open positions",
+    "text": "Open positions\nNo funded openings at the moment. When there are, list them here with a link to the official posting."
+  },
+  {
+    "objectID": "join.html#phd-students",
+    "href": "join.html#phd-students",
+    "title": "Join us",
+    "section": "PhD students",
+    "text": "PhD students\nWhat you look for in applicants, funding routes, and how to get in touch (e.g. email with CV, transcripts, and a short statement of interest)."
+  },
+  {
+    "objectID": "join.html#postdocs",
+    "href": "join.html#postdocs",
+    "title": "Join us",
+    "section": "Postdocs",
+    "text": "Postdocs\nNote relevant fellowship programs (e.g. Marie Skłodowska-Curie, national fellowships) and invite informal inquiries."
+  },
+  {
+    "objectID": "join.html#bscmsc-theses-internships",
+    "href": "join.html#bscmsc-theses-internships",
+    "title": "Join us",
+    "section": "BSc/MSc theses & internships",
+    "text": "BSc/MSc theses & internships\nWhich topics are available, prerequisites, and who to contact."
+  },
+  {
+    "objectID": "people/alumni/alex-past.html",
+    "href": "people/alumni/alex-past.html",
+    "title": "Alex Past",
+    "section": "",
+    "text": "Placeholder alumni entry — thesis title and where they went next."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n\n\n\n\n\n\n\nAlex Past\n\n\nMSc Student (2024–2026), now at Example Corp\n\n\n\n\n\nNo matching items"
+  }
+]
