@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Projects span building new theories, developing computational models, and linking them to experimental data, such as Calcium imaging of single neurons, electron microscopy of full brains, and artificial neural networks. 
-[Join us](../join.qmd) if you're interested in working on these problems.
+[Join us](join.qmd) if you're interested in working on these problems.
 
 ## The Geometry of Neural Manifolds underlying 3D Vision
 

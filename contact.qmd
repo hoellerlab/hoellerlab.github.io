@@ -2,10 +2,7 @@
 title: "Contact"
 ---
 
-Judith Hoeller
-
-Department of Physics
-
-University of Notre Dame
-
+Judith Hoeller\
+Department of Physics\
+University of Notre Dame\
 [jhoeller@nd.edu](mailto:jhoeller@nd.edu)
