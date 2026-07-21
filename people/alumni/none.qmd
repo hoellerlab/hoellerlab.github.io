@@ -1,7 +1,0 @@
----
-title: "None"
-description: ""
-image: ../../assets/avatar-placeholder.svg
-sortorder: 1
----
-
