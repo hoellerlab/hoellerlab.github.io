@@ -1,15 +1,12 @@
 ---
 title: "Hoeller Lab"
-subtitle: "One sentence on what the lab studies — edit me in `index.qmd`"
+subtitle: "We investigate how biological and artificial neural networks process visual information to perceive a three-dimensional world."
 ---
 
-Welcome to the Hoeller Lab. We study **[your topic here]** — replace this
-paragraph with two or three sentences that tell a visitor what questions the
-lab works on and why they matter.
+How does the brain turn the flat, ever-shifting images on the retina into a stable sense of depth and 3D structure—above all as we move through the world? We combine mathematical theory, computational modeling, and close collaboration with experimentalists to find out, linking large-scale neural datasets with artificial neural networks. Our goal is twofold: to uncover the computational principles unique to biological vision, and to build artificial architectures that capture them.
 
 [Our research](research.qmd){.btn .btn-primary .me-2} [Join the lab](join.qmd){.btn .btn-outline-primary}
 
 ## News
 
-- **July 2026** — Lab website launched. *(Replace these bullets with real news,
-  or ask for a proper dated news/blog section later.)*
+- **January 2027** — Lab starts at the University of Notre Dame!

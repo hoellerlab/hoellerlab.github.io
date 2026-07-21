@@ -2,24 +2,12 @@
 title: "Join us"
 ---
 
-We are always interested in hearing from motivated people. Replace this intro
-with a sentence about the lab's mentoring style and environment.
+New tools are producing brain data at a scale and quality we have never had before, and with it the chance to answer long-standing questions about how the brain computes. It is a good time for quantitative scientists to move into biology. We welcome people from physics, mathematics, computer science, and neuroscience who want to bring quantitative rigor to these questions.
 
-## Open positions
+We are recruiting at every level and offer a collaborative, supportive environment:
 
-*No funded openings at the moment.* When there are, list them here with a link
-to the official posting.
+- **Postdocs** building mechanistic models from whole-brain connectomes
+- **PhD students** who want to rotate and learn to analyze state-of-the-art datasets
+- **Undergraduates** seeking hands-on experience in programming and data analysis; we ask for a six-month minimum so there is time to train properly
 
-## PhD students
-
-What you look for in applicants, funding routes, and how to get in touch
-(e.g. email with CV, transcripts, and a short statement of interest).
-
-## Postdocs
-
-Note relevant fellowship programs (e.g. Marie Skłodowska-Curie, national
-fellowships) and invite informal inquiries.
-
-## BSc/MSc theses & internships
-
-Which topics are available, prerequisites, and who to contact.
+To apply, email me with your CV and a short description of your research interests and background—quantitative coursework, coding experience, or previous research. Postdoctoral candidates should also include contact details for two or three references. Prospective graduate students must apply through the university's graduate program, but are encouraged to reach out first to discuss projects.

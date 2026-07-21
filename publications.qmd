@@ -5,9 +5,8 @@ csl: assets/apa-cv.csl
 nocite: '@*'
 ---
 
-All lab publications, newest first. Add a paper by appending a BibTeX entry to
-`papers.bib` — this page regenerates automatically. Also see the lab on
-[Google Scholar](https://scholar.google.com).
+All publications on
+[Google Scholar](https://scholar.google.com/citations?user=FicZM4wAAAAJ&hl=en).
 
 ::: {#refs}
 :::

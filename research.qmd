@@ -2,19 +2,16 @@
 title: "Research"
 ---
 
-A short overview paragraph: what unifies the lab's work, in plain language.
+We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Our projects span the theory of neural population codes, geometry-constrained deep learning, and connectome-based models of real circuits.
 
-## Research area one
+## The Neural Geometry of 3D Vision and Depth Cues
 
-Two to four sentences on this line of work: the question, the approach, and a
-representative result or ongoing project. Add a figure with
-`![caption](assets/figure.png)` if you have one.
+Perceiving depth feels effortless, yet the brain must compute distance and 3D structure from the 2D light entering a single eye. Movement makes this harder: as an animal travels through the world, its visual input undergoes continuous geometric transformations. We study how neuronal populations process these transformations to support both stable object recognition and accurate depth perception.
 
-## Research area two
+## Geometric Deep Learning for Biological and Artificial Vision
 
-Same structure as above.
+Convolutional networks achieve remarkable performance on visual tasks, yet they process images unlike any biological brain and often remain "black boxes." We push artificial networks closer to biological reality by building in mathematical and biological constraints. Using geometric deep learning, our networks share weights across channels to mimic the equivariant population codes found in real brains.
 
-## Research area three
+## Mechanistic Models of Motion Processing and Navigation
 
-Same structure as above. Delete or add sections as needed — each `##` heading
-becomes an entry in this page's structure.
+Mechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes—such as the full wiring diagram of the fruit fly brain—now let us trace how sensory input becomes a navigational command. We investigate how the visual system computes relative depth from motion parallax, testing the hypothesis that distinct, specialized neurons compare foreground and background motion to do so.
