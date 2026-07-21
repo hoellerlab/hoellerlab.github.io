@@ -1,0 +1,32 @@
+---
+title: "People"
+listing:
+  - id: current-members
+    contents:
+      - "*.qmd"
+      - "!alumni/**"
+    type: grid
+    grid-columns: 3
+    sort: "sortorder"
+    fields: [image, title, description]
+    sort-ui: false
+    filter-ui: false
+  - id: alumni
+    contents: "alumni/*.qmd"
+    type: grid
+    grid-columns: 3
+    sort: "sortorder"
+    fields: [image, title, description]
+    sort-ui: false
+    filter-ui: false
+---
+
+## Current members
+
+::: {#current-members}
+:::
+
+## Alumni
+
+::: {#alumni}
+:::

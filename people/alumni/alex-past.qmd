@@ -1,0 +1,8 @@
+---
+title: "Alex Past"
+description: "MSc Student (2024–2026), now at Example Corp"
+image: ../../assets/avatar-placeholder.svg
+sortorder: 1
+---
+
+Placeholder alumni entry — thesis title and where they went next.

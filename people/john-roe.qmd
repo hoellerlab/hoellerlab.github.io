@@ -1,0 +1,10 @@
+---
+title: "John Roe"
+description: "PhD Student"
+image: ../assets/avatar-placeholder.svg
+sortorder: 2
+---
+
+Short bio for a placeholder PhD student.
+
+[Email](mailto:john.roe@example.edu)

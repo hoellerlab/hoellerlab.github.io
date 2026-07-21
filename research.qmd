@@ -1,0 +1,20 @@
+---
+title: "Research"
+---
+
+A short overview paragraph: what unifies the lab's work, in plain language.
+
+## Research area one
+
+Two to four sentences on this line of work: the question, the approach, and a
+representative result or ongoing project. Add a figure with
+`![caption](assets/figure.png)` if you have one.
+
+## Research area two
+
+Same structure as above.
+
+## Research area three
+
+Same structure as above. Delete or add sections as needed — each `##` heading
+becomes an entry in this page's structure.

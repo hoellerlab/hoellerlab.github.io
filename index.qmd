@@ -1,0 +1,15 @@
+---
+title: "Hoeller Lab"
+subtitle: "One sentence on what the lab studies — edit me in `index.qmd`"
+---
+
+Welcome to the Hoeller Lab. We study **[your topic here]** — replace this
+paragraph with two or three sentences that tell a visitor what questions the
+lab works on and why they matter.
+
+[Our research](research.qmd){.btn .btn-primary .me-2} [Join the lab](join.qmd){.btn .btn-outline-primary}
+
+## News
+
+- **July 2026** — Lab website launched. *(Replace these bullets with real news,
+  or ask for a proper dated news/blog section later.)*

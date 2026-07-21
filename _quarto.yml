@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Hoeller Lab"
+  description: "Hoeller Lab — research group website"
+  site-url: https://hoellerlab.github.io
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people/index.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join us
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/hoellerlab
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Hoeller Lab"
+    right: "Made with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    link-external-newwindow: true

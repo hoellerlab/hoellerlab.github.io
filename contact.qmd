@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+**Hoeller Lab**
+Department of …
+University of …
+Street 1, 12345 City, Country
+
+**Email:** [lab@example.edu](mailto:lab@example.edu)
+
+**Visiting:** Building X, Floor Y, Room Z — directions or a link to a campus
+map go here.

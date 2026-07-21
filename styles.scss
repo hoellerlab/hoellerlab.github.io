@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+// Lab accent color — change this one value to re-theme the whole site.
+$primary: #2c6e91;
+
+/*-- scss:rules --*/
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+// People grid: consistent card images
+.quarto-grid-item img.thumbnail-image {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+// Publications: a little air between entries
+#refs .csl-entry {
+  margin-bottom: 0.75rem;
+}

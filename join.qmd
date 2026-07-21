@@ -1,0 +1,25 @@
+---
+title: "Join us"
+---
+
+We are always interested in hearing from motivated people. Replace this intro
+with a sentence about the lab's mentoring style and environment.
+
+## Open positions
+
+*No funded openings at the moment.* When there are, list them here with a link
+to the official posting.
+
+## PhD students
+
+What you look for in applicants, funding routes, and how to get in touch
+(e.g. email with CV, transcripts, and a short statement of interest).
+
+## Postdocs
+
+Note relevant fellowship programs (e.g. Marie Skłodowska-Curie, national
+fellowships) and invite informal inquiries.
+
+## BSc/MSc theses & internships
+
+Which topics are available, prerequisites, and who to contact.
