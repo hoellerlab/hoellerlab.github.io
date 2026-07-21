@@ -2,12 +2,10 @@
 title: "Join us"
 ---
 
-New tools in neuroscience are producing data at a scale and quality we have never had before, and with it the chance to answer long-standing questions about how the brain computes. It is a good time for quantitative scientists to move into biology. We welcome people across disciplines who want to bring quantitative rigor to these questions.
+New tools in neuroscience are producing data at a scale and quality we have never had before, with it the chance to answer fundamental long-standing questions about how the brain works. It is a great time for quantitative scientists to move into neuroscience. We welcome people across disciplines who want to bring quantitative rigor to this field.
 
-We are recruiting at every level and offer a collaborative, supportive environment:
+We are recruiting at every level and offer a collaborative, supportive environment. To apply, [contact me](../contact.qmd) with your CV and a short description of your research interests.
 
-- **Postdocs**
-- **PhD students**
-- **Undergraduates** (research assistants; we ask for a six-month minimum so there is time to train properly)
-
-To apply, email me with your CV and a short description of your research interests and background—quantitative coursework, coding experience, or previous research. Postdoctoral candidates should also include contact details for two or three references. Prospective graduate students must apply through the university's graduate program, but are encouraged to reach out first to discuss potential projects.
+- **Undergraduates** should also include a brief description of their research interests and any relevant coursework or experience. We ask for a six-month minimum so there is time to train properly.
+- **PhD students** must apply through the university's graduate program, but are encouraged to reach out first to discuss potential projects.
+- **Postdocs** should also include contact details for two or three references.

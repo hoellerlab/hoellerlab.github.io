@@ -1,0 +1,16 @@
+---
+title: "Code & Data"
+---
+
+We are committed to open science and making our code and data publicly available.
+
+## Code
+
+- [Fly Optic Lobe Connectome](https://github.com/reiserlab/male-drosophila-visual-system-connectome-code): cell typing of neurons and building anatomical structure (columns and layers) in the fly's right optic lobe, which is the primary visual system behind the fly eye.
+- [Fly Visual Pathways](https://github.com/reiserlab/visualpathways): finding the hierachical and parallel structure in the entire fly visual system (two optic lobes and central brain).
+- [Connectome Interpreter](https://github.com/YijieYin/connectome_interpreter?tab=readme-ov-file): library for efficient analysis of connectome data, mainly developed by Yijie Yin.
+- [Neural Manifolds of 2D Rotations](https://github.com/romani-lab/Equivariance-in-neural-networks): quantifying the geometry of neural manifolds from neuronal responses to 2D rotated images.
+
+## Data
+
+- [Mouse Calcium imaging to 2D rotated images](https://janelia.figshare.com/articles/dataset/Calcium_imaging_data_for_Equivariant_neuronal_populations_enable_simultaneous_tuning_and_invariance_/29955530): large-scale Calcium imaging data in visual cortex of 3 mice, each with more than 50,000 neurons, to 92 different 2D rotated images (46 textures + 46 scenes).

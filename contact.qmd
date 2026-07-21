@@ -2,9 +2,10 @@
 title: "Contact"
 ---
 
-**Hoeller Lab**
 Judith Hoeller
+
 Department of Physics
+
 University of Notre Dame
 
-**Email:** [jhoeller@nd.edu](mailto:jhoeller@nd.edu)
+[jhoeller@nd.edu](mailto:jhoeller@nd.edu)

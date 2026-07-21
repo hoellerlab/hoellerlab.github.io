@@ -16,6 +16,8 @@ website:
         text: People
       - href: publications.qmd
         text: Publications
+      - href: code-data.qmd
+        text: Code & Data
       - href: join.qmd
         text: Join us
       - href: contact.qmd

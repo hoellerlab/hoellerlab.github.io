@@ -1,11 +1,11 @@
 ---
 title: "Hoeller Lab"
-subtitle: "We investigate how biological and artificial neural networks process visual information to perceive a three-dimensional world."
+subtitle: "Investigating what computations underlie vision"
 ---
 
-How does the brain turn the flat, ever-shifting images on the retina into a stable sense of depth and 3D structure—above all as we move through the world? We combine mathematical theory, computational modeling, and close collaboration with experimentalists to find out, linking large-scale neural datasets with artificial neural networks. Our goal is twofold: to uncover the computational principles unique to biological vision, and to build artificial architectures that capture them.
+How does the brain turn the ever-shifting two-dimensional images on the retina into a stable perception of a three-dimensional world? We tackle this question by combining mathematical theory, physics-inspired modeling, and close collaboration with experimentalists. We also harness artificial neural networks to uncover the computational principles unique to biological vision, and to design artificial architectures that capture them.
 
-[Our research](research.qmd){.btn .btn-primary .me-2} [Join the lab](join.qmd){.btn .btn-outline-primary}
+[More on research](research.qmd){.btn .btn-primary .me-2} [Interested in joining?](join.qmd){.btn .btn-outline-primary}
 
 ## News
 

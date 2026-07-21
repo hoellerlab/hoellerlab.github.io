@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Lab accent color — change this one value to re-theme the whole site.
-$primary: #2c6e91;
+$primary: #64c659;
 
 /*-- scss:rules --*/
 
@@ -24,6 +24,45 @@ $primary: #2c6e91;
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
+}
+
+// PI card: fixed-width photo with the bio laid out beside it, up to 3× the
+// photo's width. Needs `page-layout: full` on the page to actually reach 3×.
+$pi-photo-width: 360px;
+
+.pi-grid {
+  grid-template-columns: minmax(280px, calc(#{$pi-photo-width} * 4));
+}
+
+.pi-grid .card {
+  flex-direction: row;
+}
+
+.pi-grid .card-img-top {
+  width: $pi-photo-width;
+  flex: 0 0 $pi-photo-width;
+  border-radius: var(--bs-card-inner-border-radius) 0 0 var(--bs-card-inner-border-radius);
+}
+
+.pi-grid .card-body {
+  max-width: calc(#{$pi-photo-width} * 3);
+}
+
+.pi-grid .card-text {
+  font-size: 1.08em;
+}
+
+// Stack the PI card again on narrow screens
+@media (max-width: 767.98px) {
+  .pi-grid .card {
+    flex-direction: column;
+  }
+
+  .pi-grid .card-img-top {
+    width: 100%;
+    flex: initial;
+    border-radius: var(--bs-card-inner-border-radius) var(--bs-card-inner-border-radius) 0 0;
+  }
 }
 
 .people-grid .card-title {

@@ -5,8 +5,7 @@ csl: assets/apa-cv.csl
 nocite: '@*'
 ---
 
-All publications on
-[Google Scholar](https://scholar.google.com/citations?user=FicZM4wAAAAJ&hl=en).
+Recent publications; see the full list on [Google Scholar](https://scholar.google.com/citations?user=FicZM4wAAAAJ&hl=en).
 
 ::: {#refs}
 :::
