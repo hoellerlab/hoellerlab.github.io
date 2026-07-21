@@ -49,6 +49,13 @@
     "text": "The Neural Geometry of 3D Vision and Depth Cues\nPerceiving depth feels effortless, yet the brain must compute distance and 3D structure from the 2D light entering a single eye. Movement makes this harder: as an animal travels through the world, its visual input undergoes continuous geometric transformations. We study how neuronal populations process these transformations to support both stable object recognition and accurate depth perception."
   },
   {
+    "objectID": "research.html#mechanistic-models-of-motion-parallax",
+    "href": "research.html#mechanistic-models-of-motion-parallax",
+    "title": "Research",
+    "section": "Mechanistic Models of Motion Parallax",
+    "text": "Mechanistic Models of Motion Parallax\nMechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes—such as the full wiring diagram of the fruit fly brain—now let us trace how sensory input becomes a navigational command. We investigate how the visual system computes relative depth from motion parallax by analyzing integration of motion signals across different neuronal populations."
+  },
+  {
     "objectID": "research.html#geometric-deep-learning-for-biological-and-artificial-vision",
     "href": "research.html#geometric-deep-learning-for-biological-and-artificial-vision",
     "title": "Research",
@@ -56,24 +63,17 @@
     "text": "Geometric Deep Learning for Biological and Artificial Vision\nConvolutional networks achieve remarkable performance on visual tasks, yet they process images unlike any biological brain and often remain “black boxes.” We push artificial networks closer to biological reality by building in mathematical and biological constraints. Using geometric deep learning, our networks share weights across channels to mimic the equivariant population codes found in real brains."
   },
   {
-    "objectID": "research.html#mechanistic-models-of-motion-processing-and-navigation",
-    "href": "research.html#mechanistic-models-of-motion-processing-and-navigation",
-    "title": "Research",
-    "section": "Mechanistic Models of Motion Processing and Navigation",
-    "text": "Mechanistic Models of Motion Processing and Navigation\nMechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes—such as the full wiring diagram of the fruit fly brain—now let us trace how sensory input becomes a navigational command. We investigate how the visual system computes relative depth from motion parallax, testing the hypothesis that distinct, specialized neurons compare foreground and background motion to do so."
-  },
-  {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n\n\nJudith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI’s Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring new places, or swimming in lakes.\n\n\nEmail · Google Scholar · ORCID\n\n\n\n\n\n\nWe are recruiting at every level—see Join us if you’d like to work with us."
+    "text": "We are recruiting at every level—see Join us if you’d like to work with us."
   },
   {
     "objectID": "people/index.html#current-members",
     "href": "people/index.html#current-members",
     "title": "People",
-    "section": "",
-    "text": "Principal Investigator\n\n\nJudith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI’s Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring new places, or swimming in lakes.\n\n\nEmail · Google Scholar · ORCID\n\n\n\n\n\n\nWe are recruiting at every level—see Join us if you’d like to work with us."
+    "section": "Current members",
+    "text": "Current members\n\n\n\n\n\nJudith Hoeller\n\n\nPrincipal Investigator\n\n\nJudith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI’s Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring, or swimming in lakes.\n\n\nEmail · Google Scholar · ORCID"
   }
 ]
