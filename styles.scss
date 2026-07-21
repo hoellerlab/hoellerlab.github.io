@@ -9,8 +9,19 @@ $primary: #2c6e91;
   font-weight: 600;
 }
 
-// People grid: square, uniformly cropped card photos
+// People grid. Quarto's Bootstrap build omits the `row-cols-*` utilities,
+// so lay the cards out with CSS grid and cap their width here instead.
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 240px));
+  gap: 1.5rem;
+  justify-content: start;
+  margin-top: 1rem;
+}
+
+// Square, uniformly cropped card photos
 .people-grid .card-img-top {
+  width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
 }

@@ -2,22 +2,21 @@
 title: "People"
 ---
 
+We are recruiting at every level—see [Join us](../join.qmd) if you'd like to work with us.
+
 ## Current members
 
-::: {.people-grid .row .row-cols-1 .row-cols-sm-2 .row-cols-lg-3 .g-4}
-<div class="col">
+::: {.people-grid}
 <div class="card h-100">
-<img src="../assets/avatar-placeholder.svg" class="card-img-top" alt="Judith Hoeller">
+<img src="../assets/Judith-1.jpg" class="card-img-top" alt="Judith Hoeller">
 <div class="card-body">
 <h5 class="card-title">Judith Hoeller</h5>
 <div class="member-role mb-2">Principal Investigator</div>
-<p class="card-text">Judith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI's Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring new places, or swimming in lakes.</p>
+<p class="card-text">Judith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI's Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring, or swimming in lakes.</p>
 <p class="card-text mb-0"><a href="mailto:jhoeller@nd.edu">Email</a> · <a href="https://scholar.google.com/citations?user=FicZM4wAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://orcid.org/0009-0004-7261-4156">ORCID</a></p>
-</div>
 </div>
 </div>
 :::
 
-<!-- To add a member, copy one whole `<div class="col"> … </div>` block above (from this line's block) and edit the photo, name, role, bio, and links. Keep every HTML tag flush to the left margin — indenting a line by 4+ spaces makes it render as literal text. -->
+<!-- To add a member, copy one whole `<div class="card h-100"> … </div>` block above and edit the photo, name, role, bio, and links. Keep every HTML tag flush to the left margin — indenting a line by 4+ spaces makes it render as literal text. -->
 
-We are recruiting at every level—see [Join us](../join.qmd) if you'd like to work with us.
