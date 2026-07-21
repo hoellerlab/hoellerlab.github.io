@@ -14,13 +14,6 @@
     "text": "News\n\nJanuary 2027 — Lab starts at the University of Notre Dame!"
   },
   {
-    "objectID": "people/judith-hoeller.html",
-    "href": "people/judith-hoeller.html",
-    "title": "Judith Hoeller",
-    "section": "",
-    "text": "Judith is a theoretical and computational scientist who leverages her foundational training in mathematics and physics to understand how the brain processes complex visual information. After earning degrees at ETH Zurich and completing a PhD in theoretical condensed matter physics at Yale University, she shifted her focus to systems neuroscience as a postdoctoral associate at HHMI’s Janelia Research Campus. Outside the lab, Judith enjoys spending time outdoors, whether hiking in parks, exploring new places, or swimming in fresh lakes.\nEmail · Google Scholar · ORCID"
-  },
-  {
     "objectID": "join.html",
     "href": "join.html",
     "title": "Join us",
@@ -32,7 +25,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "All publications on Google Scholar.\n\n\nBerg, S., Beckett, I. R., Costa, M., Schlegel, P., Januszewski, M., Marin, E. C., Nern, A., Preibisch, S., Qiu, W., Takemura, S., et al. (2025). Sexual dimorphism in the complete connectome of the drosophila male central nervous system. bioRxiv. https://doi.org/10.1101/2025.10.09.680999\n\n\nHoeller, J., Zhao, A., Nern, A., Rogers, E. M., Romani, S., & Reiser, M. B. (2025). The organization of visual pathways in the drosophila brain. bioRxiv, 2025.12.22.696097v2.\n\n\nLane, J. R., Guria, C., Höller, J., Montalvo, T. D., Patil, Y. S. S., & Harris, J. G. E. (2025). Geometric amplification via non-hermitian berry phase. arXiv Preprint arXiv:2503.23197. https://doi.org/10.48550/arXiv.2503.23197\n\n\nYin, Y., Hoeller, J., Mathiasen, A., Tsang, J., Charrier, M. E., & Cardona, A. (2025). The connectome interpreter toolkit. bioRxiv. https://doi.org/10.1101/2025.09.29.679410\n\n\nHoeller, J., Zhong, L., Heinrich, L., Saalfeld, S., Pachitariu, M., & Romani, S. (2024). Equivariant neuronal populations enable simultaneous tuning and invariance. bioRxiv, 2024.08.02.606398v2.\n\n\nNern, A., Hoeller, J., et al. (2024). Connectome-driven neural inventory of a complete visual system. bioRxiv, 2024.04.16.589741.\n\n\nZhao, A., Nern, A., Koskela, S., Dreher, M., Erginkaya, M., Laughland, C. W., Ludwigh, H., Thomson, A., Hoeller, J., Parekh, R., Romani, S., Bock, D. D., Chiappe, E., & Reiser, M. B. (2023). A comprehensive neuroanatomical survey of the drosophila lobula plate tangential neurons with predictions for their optic flow sensitivity. eLife, 13, RP93659.\n\n\nPatil, Y. S. S., Hoeller, J., Henry, P. A., Guria, C., Zhang, Y., Jiang, L., Kralj, N., Read, N., & Harris, J. G. E. (2022). Measuring the knot of non-hermitian degeneracies and non-commuting braids. Nature, 607(7918), 271–275.\n\n\nHoeller, J., & Read, N. (2020). One-step replica-symmetry-breaking phase below the de almeida-thouless line in low-dimensional spin glasses. Phys. Rev. E, 101(4), 042114.\n\n\nHoeller, J., & Alexandradinata, A. (2018). Topological bloch oscillations. Phys. Rev. B, 98(2), 024310."
+    "text": "All publications on Google Scholar.\n\n\nBerg, S., Beckett, I. R., Costa, M., Schlegel, P., Januszewski, M., Marin, E. C., Nern, A., Preibisch, S., Qiu, W., Takemura, S., et al. (2025). Sexual dimorphism in the complete connectome of the Drosophila male central nervous system. bioRxiv. https://doi.org/10.1101/2025.10.09.680999\n\n\nHoeller, J., Zhao, A., Nern, A., Rogers, E. M., Romani, S., & Reiser, M. B. (2025). The organization of visual pathways in the Drosophila brain. bioRxiv. https://doi.org/10.64898/2025.12.22.696097\n\n\nLane, J. R., Guria, C., Höller, J., Montalvo, T. D., Patil, Y. S. S., & Harris, J. G. E. (2025). Geometric amplification via non-hermitian berry phase. arXiv Preprint arXiv:2503.23197. https://doi.org/10.48550/arXiv.2503.23197\n\n\nYin, Y., Hoeller, J., Mathiasen, A., Tsang, J., Charrier, M. E., & Cardona, A. (2025). The connectome interpreter toolkit. bioRxiv. https://doi.org/10.1101/2025.09.29.679410\n\n\nHoeller, J., Zhong, L., Heinrich, L., Saalfeld, S., Pachitariu, M., & Romani, S. (2024). Equivariant neuronal populations enable simultaneous tuning and invariance. bioRxiv. https://doi.org/10.1101/2024.08.02.606398\n\n\nNern, A., Hoeller, J., et al. (2024). Connectome-driven neural inventory of a complete visual system. bioRxiv. https://doi.org/10.1101/2024.04.16.589741\n\n\nZhao, A., Nern, A., Koskela, S., Dreher, M., Erginkaya, M., Laughland, C. W., Ludwigh, H., Thomson, A., Hoeller, J., Parekh, R., Romani, S., Bock, D. D., Chiappe, E., & Reiser, M. B. (2023). A comprehensive neuroanatomical survey of the Drosophila lobula plate tangential neurons with predictions for their optic flow sensitivity. eLife, 13, RP93659. https://doi.org/10.7554/eLife.93659\n\n\nPatil, Y. S. S., Hoeller, J., Henry, P. A., Guria, C., Zhang, Y., Jiang, L., Kralj, N., Read, N., & Harris, J. G. E. (2022). Measuring the knot of non-hermitian degeneracies and non-commuting braids. Nature, 607(7918), 271–275. https://doi.org/10.1038/s41586-022-04796-w\n\n\nHoeller, J., & Read, N. (2020). One-step replica-symmetry-breaking phase below the de almeida-thouless line in low-dimensional spin glasses. Phys. Rev. E, 101(4), 042114. https://doi.org/10.1103/PhysRevE.101.042114\n\n\nHoeller, J., & Alexandradinata, A. (2018). Topological bloch oscillations. Phys. Rev. B, 98(2), 024310. https://doi.org/10.1103/PhysRevB.98.024310"
   },
   {
     "objectID": "contact.html",
@@ -74,20 +67,13 @@
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
+    "text": "&lt;div class=\"card h-100\"&gt;\n  &lt;img src=\"../assets/avatar-placeholder.svg\" class=\"card-img-top\" alt=\"Judith Hoeller\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Judith Hoeller&lt;/h5&gt;\n    &lt;div class=\"member-role mb-2\"&gt;Principal Investigator&lt;/div&gt;\n    &lt;p class=\"card-text\"&gt;Judith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI's Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring new places, or swimming in lakes.&lt;/p&gt;\n    &lt;p class=\"card-text mb-0\"&gt;&lt;a href=\"mailto:jhoeller@nd.edu\"&gt;Email&lt;/a&gt; · &lt;a href=\"https://scholar.google.com/citations?user=FicZM4wAAAAJ&amp;hl=en\"&gt;Google Scholar&lt;/a&gt; · &lt;a href=\"https://orcid.org/0009-0004-7261-4156\"&gt;ORCID&lt;/a&gt;&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\nWe are recruiting at every level—see Join us if you’d like to work with us."
   },
   {
     "objectID": "people/index.html#current-members",
     "href": "people/index.html#current-members",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/index.html#alumni",
-    "href": "people/index.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n\n\n\n\n\n\n\n\nNone\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "&lt;div class=\"card h-100\"&gt;\n  &lt;img src=\"../assets/avatar-placeholder.svg\" class=\"card-img-top\" alt=\"Judith Hoeller\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Judith Hoeller&lt;/h5&gt;\n    &lt;div class=\"member-role mb-2\"&gt;Principal Investigator&lt;/div&gt;\n    &lt;p class=\"card-text\"&gt;Judith is a theoretical and computational scientist who uses her background in mathematics and physics to study how the brain processes visual information. She earned her degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI's Janelia Research Campus. Outside the lab she is usually outdoors—hiking, exploring new places, or swimming in lakes.&lt;/p&gt;\n    &lt;p class=\"card-text mb-0\"&gt;&lt;a href=\"mailto:jhoeller@nd.edu\"&gt;Email&lt;/a&gt; · &lt;a href=\"https://scholar.google.com/citations?user=FicZM4wAAAAJ&amp;hl=en\"&gt;Google Scholar&lt;/a&gt; · &lt;a href=\"https://orcid.org/0009-0004-7261-4156\"&gt;ORCID&lt;/a&gt;&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\nWe are recruiting at every level—see Join us if you’d like to work with us."
   }
 ]
