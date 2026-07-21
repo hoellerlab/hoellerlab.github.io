@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0e9038a509e5e3771d61ee8c5227505d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fd69f7ab7a4b25a1e1d71ce8d837e568.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -107,6 +107,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./code-data.html"> 
+<span class="menu-text">Code &amp; Data</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./join.html"> 
 <span class="menu-text">Join us</span></a>
   </li>  
@@ -155,18 +159,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Our projects span the theory of neural population codes, geometry-constrained deep learning, and connectome-based models of real circuits.</p>
-<section id="the-neural-geometry-of-3d-vision-and-depth-cues" class="level2">
-<h2 class="anchored" data-anchor-id="the-neural-geometry-of-3d-vision-and-depth-cues">The Neural Geometry of 3D Vision and Depth Cues</h2>
-<p>Perceiving depth feels effortless, yet the brain must compute distance and 3D structure from the 2D light entering a single eye. Movement makes this harder: as an animal travels through the world, its visual input undergoes continuous geometric transformations. We study how neuronal populations process these transformations to support both stable object recognition and accurate depth perception.</p>
-</section>
-<section id="mechanistic-models-of-motion-parallax" class="level2">
-<h2 class="anchored" data-anchor-id="mechanistic-models-of-motion-parallax">Mechanistic Models of Motion Parallax</h2>
-<p>Mechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes—such as the full wiring diagram of the fruit fly brain—now let us trace how sensory input becomes a navigational command. We investigate how the visual system computes relative depth from motion parallax by analyzing integration of motion signals across different neuronal populations.</p>
+<p>We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Projects span building new theories, developing computational models, and linking them to experimental data, such as Calcium imaging of single neurons, electron microscopy of full brains, and artificial neural networks. <a href="../join.qmd">Join us</a> if you’re interested in working on these problems.</p>
+<section id="the-geometry-of-neural-manifolds-underlying-3d-vision" class="level2">
+<h2 class="anchored" data-anchor-id="the-geometry-of-neural-manifolds-underlying-3d-vision">The Geometry of Neural Manifolds underlying 3D Vision</h2>
+<p>Perceiving a 3D world feels effortless, yet the brain must infer 3D structure from 2D images entering our eyes. These 2D images undergo continuous structured deformations (projective transformations) as an animal travels through the world. We study how neuronal populations process these image transformations by forming low-dimensional neural manifolds to support both stable object recognition and accurate depth perception.</p>
 </section>
 <section id="geometric-deep-learning-for-biological-and-artificial-vision" class="level2">
 <h2 class="anchored" data-anchor-id="geometric-deep-learning-for-biological-and-artificial-vision">Geometric Deep Learning for Biological and Artificial Vision</h2>
-<p>Convolutional networks achieve remarkable performance on visual tasks, yet they process images unlike any biological brain and often remain “black boxes.” We push artificial networks closer to biological reality by building in mathematical and biological constraints. Using geometric deep learning, our networks share weights across channels to mimic the equivariant population codes found in real brains.</p>
+<p>We aim to make artificial neural networks more interpretable and biologically realistic by imposing biological constraints. In particular, we use the framework of geometric deep learning to incorporate constraints on the geometry of neural manifolds. With access to the full connectivity and activity of artificial networks, we study how different geometries impact the network’s output.</p>
+</section>
+<section id="mechanistic-models-of-motion-parallax" class="level2">
+<h2 class="anchored" data-anchor-id="mechanistic-models-of-motion-parallax">Mechanistic Models of Motion Parallax</h2>
+<p>Mechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes (neuronal wiring diagrams), such as those of <em>Drosophila melanogaster</em>, now let us trace how sensory input gets distributed and progressively reshaped by neuronal circuits. We investigate how the fly visual system computes relative distance from motion parallax by integrating motion signals at different scales. By adding proprioceptive feedback from the animal’s own movements, flies could also estimate the absolute distance of an object.</p>
 
 
 </section>
