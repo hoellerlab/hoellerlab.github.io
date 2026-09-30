@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-734dedc5982a65c40e14f205580eb5c1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8070206e099d6270c2d68bb6889b895f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -159,18 +162,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Projects span building new theories, developing computational models, and linking them to experimental data, such as Calcium imaging of single neurons, electron microscopy of full brains, and artificial neural networks. <a href="./join.html">Join us</a> if you’re interested in working on these problems.</p>
+<p>We study how visual systems—biological and artificial—represent a moving, three-dimensional world. Projects span building new theories, developing computational models, and linking them to experimental data, such as Calcium imaging of single neurons, electron microscopy of full brains, and artificial neural networks. We also work on adiabatic transport and geometric phases in non-Hermitian systems. <a href="./join.html">Join us</a> if you’re interested in working on these problems.</p>
 <section id="the-geometry-of-neural-manifolds-underlying-3d-vision" class="level2">
 <h2 class="anchored" data-anchor-id="the-geometry-of-neural-manifolds-underlying-3d-vision">The Geometry of Neural Manifolds underlying 3D Vision</h2>
 <p>Perceiving a 3D world feels effortless, yet the brain must infer 3D structure from 2D images entering our eyes. These 2D images undergo continuous structured deformations (projective transformations) as an animal travels through the world. We study how neuronal populations process these image transformations by forming low-dimensional neural manifolds to support both stable object recognition and accurate depth perception.</p>
-</section>
-<section id="geometric-deep-learning-for-biological-and-artificial-vision" class="level2">
-<h2 class="anchored" data-anchor-id="geometric-deep-learning-for-biological-and-artificial-vision">Geometric Deep Learning for Biological and Artificial Vision</h2>
-<p>We aim to make artificial neural networks more interpretable and biologically realistic by imposing biological constraints. In particular, we use the framework of geometric deep learning to incorporate constraints on the geometry of neural manifolds. With access to the full connectivity and activity of artificial networks, we study how different geometries impact the network’s output.</p>
+<p><strong>Background paper:</strong> Hoeller, J., Zhong, L., Heinrich, L., Saalfeld, S., Pachitariu, M., &amp; Romani, S. (2024). <a href="https://www.biorxiv.org/content/10.1101/2024.08.02.606398v2">Equivariant neuronal populations enable simultaneous tuning and invariance</a>. <em>bioRxiv</em>.</p>
+<p><img src="assets/obj_recogn_fig.png" class="img-fluid" style="width:100.0%" alt="Schematic of view-invariant object recognition and neural manifolds"></p>
+<p><strong>(a)</strong> As an observer moves through a scene, the same object (a bear) and background (leaves) are seen from different viewpoints, producing different 2D images. <strong>(b)</strong> Robust recognition requires treating different views of the same object as equivalent, while keeping views of different objects distinct. <strong>(c)</strong> In neuronal response space, all views of an object form a low-dimensional manifold. When the bear and leaves manifolds are separable (left), a linear readout can classify objects robustly across viewpoints; when they are entangled (right), it cannot.</p>
 </section>
 <section id="mechanistic-models-of-motion-parallax" class="level2">
 <h2 class="anchored" data-anchor-id="mechanistic-models-of-motion-parallax">Mechanistic Models of Motion Parallax</h2>
 <p>Mechanistic understanding requires knowing how individual neurons wire together into functional circuits. Complete connectomes (neuronal wiring diagrams), such as those of <em>Drosophila melanogaster</em>, now let us trace how sensory input gets distributed and progressively reshaped by neuronal circuits. We investigate how the fly visual system computes relative distance from motion parallax by integrating motion signals at different scales. By adding proprioceptive feedback from the animal’s own movements, flies could also estimate the absolute distance of an object.</p>
+<p><strong>Background papers:</strong></p>
+<ul>
+<li>Nern, A., Loesche, F., Takemura, S., … Hoeller, J., … Reiser, M. B. (2025). <a href="https://www.nature.com/articles/s41586-025-08746-0">Connectome-driven neural inventory of a complete visual system</a>. <em>Nature</em>, 641, 1225–1237.</li>
+<li>Hoeller, J., Zhao, A., Nern, A., Rogers, E. M., Romani, S., &amp; Reiser, M. B. (2026). <a href="https://www.cell.com/cell/fulltext/S0092-8674(26)00941-4">The organization of visual pathways in the <em>Drosophila</em> brain</a>. <em>Cell</em>, 189, 5552–5570.</li>
+</ul>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img src="assets/fly_parallax.png" class="img-fluid" style="width:100.0%" alt="Self-motion generated depth cues and a putative neuronal pathway for motion parallax in the fly visual system"></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:45%; align-self: center;">
+<p><strong>Left:</strong> As a fly moves, nearby objects sweep across its eye faster than distant ones (motion parallax), providing a cue to depth. <strong>Right:</strong> A putative neuronal pathway in the fly optic lobe: columnwise contrast and columnwise motion signals are combined with wide-field motion, potentially enabling neurons that encode motion parallax.</p>
+</div>
+</div>
+</section>
+<section id="geometric-deep-learning-for-biological-and-artificial-vision" class="level2">
+<h2 class="anchored" data-anchor-id="geometric-deep-learning-for-biological-and-artificial-vision">Geometric Deep Learning for Biological and Artificial Vision</h2>
+<p>We aim to make artificial neural networks more interpretable and biologically realistic by imposing biological constraints. In particular, we use the framework of geometric deep learning to incorporate constraints on the geometry of neural manifolds. With access to the full connectivity and activity of artificial networks, we study how different geometries impact the network’s output.</p>
 
 
 </section>
