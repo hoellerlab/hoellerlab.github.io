@@ -17,6 +17,10 @@ $ErrorActionPreference = "Stop"
 $repo = Split-Path -Parent $PSScriptRoot
 $siteUrl = "https://academicweb.nd.edu/hoellerlab/"
 Set-Location $repo
+# Use Windows' own tools: Anaconda / Git Bash put GNU tar, ssh etc. earlier on PATH,
+# and GNU tar misreads "C:\..." as a remote host.
+$sys = "$env:SystemRoot\System32"
+$tar = "$sys\tar.exe"; $ssh = "$sys\OpenSSH\ssh.exe"; $scp = "$sys\OpenSSH\scp.exe"; $curl = "$sys\curl.exe"
 
 function Fail($msg) { Write-Host "ERROR: $msg" -ForegroundColor Red; exit 1 }
 
@@ -44,7 +48,7 @@ New-Item -ItemType Directory $tmp | Out-Null
 Copy-Item "_site" "$tmp\site" -Recurse
 Copy-Item "_deploy\nd.htaccess" "$tmp\site\.htaccess"
 $tgz = "$tmp\hoellerlab-site.tgz"
-tar -czf $tgz -C "$tmp\site" .
+& $tar -czf $tgz -C "$tmp\site" .
 if ($LASTEXITCODE -ne 0) { Fail "tar failed" }
 $nFiles = (Get-ChildItem "$tmp\site" -Recurse -File -Force).Count
 Write-Host "Packaged $nFiles files."
@@ -75,15 +79,15 @@ if (-not $ok) { Fail "can't reach $hostName on port 22 - are you on the ND VPN?"
 
 # 5. Upload and swap (asks for your password twice unless you use an SSH key).
 Write-Host "Uploading to ${User}@${hostName}..."
-scp $tgz "${User}@${hostName}:hoellerlab-site.tgz"
+& $scp $tgz "${User}@${hostName}:hoellerlab-site.tgz"
 if ($LASTEXITCODE -ne 0) { Fail "upload failed" }
-ssh "${User}@${hostName}" $remote
+& $ssh "${User}@${hostName}" $remote
 if ($LASTEXITCODE -ne 0) { Fail "unpacking on the server failed" }
 
 # 6. Verify the live site matches the local build.
 $live = "$tmp\live-index.html"
-$code = curl.exe -s -o $live -w "%{http_code}" $siteUrl
-$csp = (curl.exe -sI $siteUrl | Select-String "Content-Security-Policy") -join ""
+$code = & $curl -s -o $live -w "%{http_code}" $siteUrl
+$csp = (& $curl -sI $siteUrl | Select-String "Content-Security-Policy") -join ""
 if ($code -ne "200") { Fail "$siteUrl returned HTTP $code" }
 if ((Get-FileHash $live).Hash -ne (Get-FileHash "_site\index.html").Hash) { Fail "live index.html differs from the local build" }
 if ($csp -notmatch "script-src 'self' 'unsafe-inline'") { Write-Host "Warning: ND's own Content-Security-Policy is still in effect; some page features may break." -ForegroundColor Yellow }
