@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Judith Hoeller\nDepartment of Physics\nUniversity of Notre Dame\njhoeller@nd.edu"
-  },
-  {
-    "objectID": "people/index.html",
-    "href": "people/index.html",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator\n\n\nI am a theoretical and computational scientist studying how the brain processes visual information. I earned my Bachelor’s and Master’s degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI Janelia Research Campus. Outside the sedentary life of a theorist, I enjoy playing soccer and tennis, relaxing in nature, and reading about philosophy of science.\n\n\nCV · Google Scholar · ORCID"
-  },
-  {
-    "objectID": "people/index.html#current-members",
-    "href": "people/index.html#current-members",
-    "title": "People",
-    "section": "Current members",
-    "text": "Current members\n\n\n\n\n\nYou"
-  },
-  {
-    "objectID": "code-data.html",
-    "href": "code-data.html",
-    "title": "Code & Data",
-    "section": "",
-    "text": "We are committed to open science and making our code and data publicly available."
-  },
-  {
-    "objectID": "code-data.html#code",
-    "href": "code-data.html#code",
-    "title": "Code & Data",
-    "section": "Code",
-    "text": "Code\n\nFly Optic Lobe Connectome: cell typing of neurons and building anatomical structure (columns and layers) in the fly’s right optic lobe, which is the primary visual system behind the fly eye.\nFly Visual Pathways: finding the hierachical and parallel structure in the entire fly visual system (two optic lobes and central brain).\nConnectome Interpreter: library for efficient analysis of connectome data, mainly developed by Yijie Yin.\nNeural Manifolds of 2D Rotations: quantifying the geometry of neural manifolds from neuronal responses to 2D rotated images."
-  },
-  {
-    "objectID": "code-data.html#data",
-    "href": "code-data.html#data",
-    "title": "Code & Data",
-    "section": "Data",
-    "text": "Data\n\nMouse Calcium imaging to 2D rotated images: large-scale Calcium imaging data in visual cortex of 3 mice, each with more than 50,000 neurons, to 92 different 2D rotated images (46 textures + 46 scenes)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hoeller Lab",
-    "section": "",
-    "text": "How does the brain turn the ever-shifting two-dimensional images on the retina into a stable perception of a three-dimensional world? We tackle this question by combining mathematical theory, physics-inspired modeling, and close collaboration with experimentalists. We also harness artificial neural networks to uncover the computational principles unique to biological vision, and to design artificial architectures that capture them.\nMore on research Interested in joining?"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Hoeller Lab",
-    "section": "News",
-    "text": "News\n\nJanuary 2027 — Lab starts at the University of Notre Dame!"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Recent publications; see the full list on Google Scholar.\n\n\nBerg, S., Beckett, I. R., Costa, M., Schlegel, P., Januszewski, M., Marin, E. C., Nern, A., Preibisch, S., Qiu, W., Takemura, S., et al. (2026). Sexual dimorphism in the complete Drosophila male central nervous system connectome. Cell, 189(18), 5504–5526.e15. https://doi.org/10.1016/j.cell.2026.08.015\n\n\nHoeller, J., Zhao, A., Nern, A., Rogers, E. M., Romani, S., & Reiser, M. B. (2026). The organization of visual pathways in the Drosophila brain. Cell, 189(18), 5552–5570.e10. https://doi.org/10.1016/j.cell.2026.08.014\n\n\nLane, J. R., Guria, C., Höller, J., Montalvo, T. D., Patil, Y. S. S., & Harris, J. G. E. (2025). Geometric amplification via non-hermitian berry phase. arXiv Preprint arXiv:2503.23197. https://doi.org/10.48550/arXiv.2503.23197\n\n\nNern, A., Loesche, F., Takemura, S., Burnett, L. E., Dreher, M., Gruntman, E., Hoeller, J., et al. (2025). Connectome-driven neural inventory of a complete visual system. Nature, 641(8065), 1225–1237. https://doi.org/10.1038/s41586-025-08746-0\n\n\nYin, Y., Hoeller, J., Mathiasen, A., Tsang, J., Charrier, M. E., & Cardona, A. (2025). The connectome interpreter toolkit. bioRxiv. https://doi.org/10.1101/2025.09.29.679410\n\n\nHoeller, J., Zhong, L., Heinrich, L., Saalfeld, S., Pachitariu, M., & Romani, S. (2024). Equivariant neuronal populations enable simultaneous tuning and invariance. bioRxiv. https://doi.org/10.1101/2024.08.02.606398\n\n\nZhao, A., Nern, A., Koskela, S., Dreher, M., Erginkaya, M., Laughland, C. W., Ludwigh, H., Thomson, A., Hoeller, J., Parekh, R., Romani, S., Bock, D. D., Chiappe, E., & Reiser, M. B. (2023). A comprehensive neuroanatomical survey of the Drosophila lobula plate tangential neurons with predictions for their optic flow sensitivity. eLife, 13, RP93659. https://doi.org/10.7554/eLife.93659\n\n\nPatil, Y. S. S., Hoeller, J., Henry, P. A., Guria, C., Zhang, Y., Jiang, L., Kralj, N., Read, N., & Harris, J. G. E. (2022). Measuring the knot of non-hermitian degeneracies and non-commuting braids. Nature, 607(7918), 271–275. https://doi.org/10.1038/s41586-022-04796-w"
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join us",
-    "section": "",
-    "text": "New tools in neuroscience are producing data at a scale and quality we have never had before, with it the chance to answer fundamental long-standing questions about how the brain works. It is a great time for quantitative scientists to move into neuroscience. We welcome people across disciplines who want to bring quantitative rigor to this field.\nWe are recruiting at every level and offer a collaborative, supportive environment. To apply, contact me with your CV and a short description of your research interests.\n\nUndergraduates should also include a brief description of their research interests and any relevant coursework or experience. We ask for a six-month minimum so there is time to train properly.\nPhD students must apply through the university’s graduate program, but are encouraged to reach out first to discuss potential projects.\nPostdocs should also include contact details for two or three references."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -96,5 +26,75 @@
     "title": "Research",
     "section": "Geometric Deep Learning for Biological and Artificial Vision",
     "text": "Geometric Deep Learning for Biological and Artificial Vision\nWe aim to make artificial neural networks more interpretable and biologically realistic by imposing biological constraints. In particular, we use the framework of geometric deep learning to incorporate constraints on the geometry of neural manifolds. With access to the full connectivity and activity of artificial networks, we study how different geometries impact the network’s output."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\n\n\nI am a theoretical and computational scientist studying how the brain processes visual information. I earned my Bachelor’s and Master’s degrees at ETH Zurich, completed a PhD in theoretical condensed-matter physics at Yale, and moved into systems neuroscience as a postdoc at HHMI Janelia Research Campus. Outside the sedentary life of a theorist, I enjoy playing soccer and tennis, relaxing in nature, and reading about philosophy of science.\n\n\nCV · Google Scholar · ORCID"
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "People",
+    "section": "Current members",
+    "text": "Current members\n\n\n\n\n\nYou"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hoeller Lab",
+    "section": "",
+    "text": "How does the brain turn the ever-shifting two-dimensional images on the retina into a stable perception of a three-dimensional world? We tackle this question by combining mathematical theory, physics-inspired modeling, and close collaboration with experimentalists. We also harness artificial neural networks to uncover the computational principles unique to biological vision, and to design artificial architectures that capture them.\nMore on research Interested in joining?"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Hoeller Lab",
+    "section": "News",
+    "text": "News\n\nJanuary 2027 — Lab starts at the University of Notre Dame!"
+  },
+  {
+    "objectID": "code-data.html",
+    "href": "code-data.html",
+    "title": "Code & Data",
+    "section": "",
+    "text": "We are committed to open science and making our code and data publicly available."
+  },
+  {
+    "objectID": "code-data.html#code",
+    "href": "code-data.html#code",
+    "title": "Code & Data",
+    "section": "Code",
+    "text": "Code\n\nFly Optic Lobe Connectome: cell typing of neurons and building anatomical structure (columns and layers) in the fly’s right optic lobe, which is the primary visual system behind the fly eye.\nFly Visual Pathways: finding the hierachical and parallel structure in the entire fly visual system (two optic lobes and central brain).\nConnectome Interpreter: library for efficient analysis of connectome data, mainly developed by Yijie Yin.\nNeural Manifolds of 2D Rotations: quantifying the geometry of neural manifolds from neuronal responses to 2D rotated images."
+  },
+  {
+    "objectID": "code-data.html#data",
+    "href": "code-data.html#data",
+    "title": "Code & Data",
+    "section": "Data",
+    "text": "Data\n\nMouse Calcium imaging to 2D rotated images: large-scale Calcium imaging data in visual cortex of 3 mice, each with more than 50,000 neurons, to 92 different 2D rotated images (46 textures + 46 scenes)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Judith Hoeller\nDepartment of Physics\nUniversity of Notre Dame\njhoeller@nd.edu"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join us",
+    "section": "",
+    "text": "New tools in neuroscience are producing data at a scale and quality we have never had before, with it the chance to answer fundamental long-standing questions about how the brain works. It is a great time for quantitative scientists to move into neuroscience. We welcome people across disciplines who want to bring quantitative rigor to this field.\nWe are recruiting at every level and offer a collaborative, supportive environment. To apply, contact me with your CV and a short description of your research interests.\n\nUndergraduates should also include a brief description of their research interests and any relevant coursework or experience. We ask for a six-month minimum so there is time to train properly.\nPhD students must apply through the university’s graduate program, but are encouraged to reach out first to discuss potential projects.\nPostdocs should also include contact details for two or three references."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Recent publications; see the full list on Google Scholar.\n\n\nBerg, S., Beckett, I. R., Costa, M., Schlegel, P., Januszewski, M., Marin, E. C., Nern, A., Preibisch, S., Qiu, W., Takemura, S., et al. (2026). Sexual dimorphism in the complete Drosophila male central nervous system connectome. Cell, 189(18), 5504–5526.e15. https://doi.org/10.1016/j.cell.2026.08.015\n\n\nHoeller, J., Zhao, A., Nern, A., Rogers, E. M., Romani, S., & Reiser, M. B. (2026). The organization of visual pathways in the Drosophila brain. Cell, 189(18), 5552–5570.e10. https://doi.org/10.1016/j.cell.2026.08.014\n\n\nLane, J. R., Guria, C., Höller, J., Montalvo, T. D., Patil, Y. S. S., & Harris, J. G. E. (2025). Geometric amplification via non-hermitian berry phase. arXiv Preprint arXiv:2503.23197. https://doi.org/10.48550/arXiv.2503.23197\n\n\nNern, A., Loesche, F., Takemura, S., Burnett, L. E., Dreher, M., Gruntman, E., Hoeller, J., et al. (2025). Connectome-driven neural inventory of a complete visual system. Nature, 641(8065), 1225–1237. https://doi.org/10.1038/s41586-025-08746-0\n\n\nYin, Y., Hoeller, J., Mathiasen, A., Tsang, J., Charrier, M. E., & Cardona, A. (2025). The connectome interpreter toolkit. bioRxiv. https://doi.org/10.1101/2025.09.29.679410\n\n\nHoeller, J., Zhong, L., Heinrich, L., Saalfeld, S., Pachitariu, M., & Romani, S. (2024). Equivariant neuronal populations enable simultaneous tuning and invariance. bioRxiv. https://doi.org/10.1101/2024.08.02.606398\n\n\nZhao, A., Nern, A., Koskela, S., Dreher, M., Erginkaya, M., Laughland, C. W., Ludwigh, H., Thomson, A., Hoeller, J., Parekh, R., Romani, S., Bock, D. D., Chiappe, E., & Reiser, M. B. (2023). A comprehensive neuroanatomical survey of the Drosophila lobula plate tangential neurons with predictions for their optic flow sensitivity. eLife, 13, RP93659. https://doi.org/10.7554/eLife.93659\n\n\nPatil, Y. S. S., Hoeller, J., Henry, P. A., Guria, C., Zhang, Y., Jiang, L., Kralj, N., Read, N., & Harris, J. G. E. (2022). Measuring the knot of non-hermitian degeneracies and non-commuting braids. Nature, 607(7918), 271–275. https://doi.org/10.1038/s41586-022-04796-w"
   }
 ]

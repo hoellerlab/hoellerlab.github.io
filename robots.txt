@@ -1,1 +1,1 @@
-Sitemap: https://hoellerlab.github.io/sitemap.xml
+Sitemap: https://academicweb.nd.edu/hoellerlab/sitemap.xml
