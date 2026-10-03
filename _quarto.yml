@@ -1,10 +1,15 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!refs/"
 
 website:
   title: "Hoeller Lab"
   description: "Hoeller Lab — research group website"
-  site-url: https://hoellerlab.github.io
+  # Canonical address. The same build is also served at https://hoellerlab.github.io;
+  # _deploy/deploy-nd.ps1 copies it to the ND server.
+  site-url: https://academicweb.nd.edu/hoellerlab/
   navbar:
     pinned: true
     left:
@@ -35,3 +40,4 @@ format:
     theme: [cosmo, styles.scss]
     toc: false
     link-external-newwindow: true
+    canonical-url: true

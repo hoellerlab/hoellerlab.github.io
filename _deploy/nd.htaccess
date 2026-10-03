@@ -1,0 +1,5 @@
+# Uploaded as ~/hoellerlab/.htaccess on academicweb.nd.edu by _deploy/deploy-nd.ps1.
+# ND's default Content-Security-Policy blocks Quarto's inline scripts and Bootstrap's
+# data: icons, so replace it with one that allows them.
+Header unset Content-Security-Policy
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; frame-ancestors 'self'; form-action 'self'; object-src 'none'; base-uri 'self'"
